@@ -13,5 +13,5 @@ let driver = new mongoose.Schema({
 
 },{versionKey: false})
 
-export default mongoose.model('driver',driver)
+export default mongoose.model('drivers',driver)
 
